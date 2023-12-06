@@ -1,0 +1,7 @@
+D:\SimplilearnAssignment4\OOPSBasedSystem\OOPSBasedSystem\bin\Debug\OOPSBasedSystem.exe.config
+D:\SimplilearnAssignment4\OOPSBasedSystem\OOPSBasedSystem\bin\Debug\OOPSBasedSystem.exe
+D:\SimplilearnAssignment4\OOPSBasedSystem\OOPSBasedSystem\bin\Debug\OOPSBasedSystem.pdb
+D:\SimplilearnAssignment4\OOPSBasedSystem\OOPSBasedSystem\obj\Debug\OOPSBasedSystem.csproj.AssemblyReference.cache
+D:\SimplilearnAssignment4\OOPSBasedSystem\OOPSBasedSystem\obj\Debug\OOPSBasedSystem.csproj.CoreCompileInputs.cache
+D:\SimplilearnAssignment4\OOPSBasedSystem\OOPSBasedSystem\obj\Debug\OOPSBasedSystem.exe
+D:\SimplilearnAssignment4\OOPSBasedSystem\OOPSBasedSystem\obj\Debug\OOPSBasedSystem.pdb
